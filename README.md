@@ -20,8 +20,6 @@ The Sign Language Translator. Its purpose is to allow users to communicate more 
 
 ## Live Sign Translator on: https://signstream.netlify.app/
 
-## Documentation `Documentation for SignStream`
-
 ## Demo Video
 
 [Sign Language Translator Demo](https://youtu.be/8p9XheYPNZA)
